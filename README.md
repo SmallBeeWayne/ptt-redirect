@@ -10,9 +10,13 @@
 * [ptt_R18_click](https://greasyfork.org/zh-TW/scripts/36285-ptt-r18-click)
 
 # 改版計畫
-* 0.1.x: 清除暫時無法工作的程式碼，聚焦於轉址功能的發展
-* 之後版本: 新增選項，能夠選擇性開關網址
-* 之後版本: 轉址之前檢查目標 PTT 網址是否有效，否則...
+* 0.1.x
+  * 清除暫時無法工作的程式碼，聚焦於轉址功能的發展
+  * 相容於 [終結內容農場](https://chromewebstore.google.com/detail/content-farm-terminator/lcghoajegeldpfkfaejegfobkapnemjl?hl=zh-TW)
+  * 支援更多的內容農場網站
+* 之後版本
+  * 新增選項，能夠選擇性開關網址
+  * 轉址之前檢查目標 PTT 網址是否有效，否則...
 
 # 專案發想
 
